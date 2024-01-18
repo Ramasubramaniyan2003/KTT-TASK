@@ -1,0 +1,23 @@
+.line{
+    border-bottom: 2px dotted rgb(213, 213, 213);
+    width: 100%;
+}
+.leatherbag{
+    background-color: rgb(246, 244, 244);
+
+    height: 265px;
+    width: 265px;
+
+}
+.discovermore{
+    background-color: white;
+    padding: 10px;
+}
+.discovermore:hover{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
